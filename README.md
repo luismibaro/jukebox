@@ -1,3 +1,7 @@
+# Description
+
+  A musical journey begins! Welcome to my inaugural Angular project. Here, we embark on a voyage of melodies, introducing songs and seamlessly queuing them up for your listening pleasure. While currently at its nascent stage, rest assured this project is poised to evolve, incorporating advanced features and optimizations, ensuring a harmonious experience with every beat.
+
 # Tarea
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
